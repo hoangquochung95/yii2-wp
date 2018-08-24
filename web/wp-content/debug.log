@@ -1,0 +1,4 @@
+[23-Aug-2018 04:40:34 UTC] PHP Notice:  Constant COOKIE_DOMAIN already defined in C:\xampp\htdocs\yii-wp\data\wordpress\wp-config.php on line 92
+[23-Aug-2018 04:40:48 UTC] PHP Notice:  Constant COOKIE_DOMAIN already defined in C:\xampp\htdocs\yii-wp\data\wordpress\wp-config.php on line 92
+[23-Aug-2018 04:41:08 UTC] PHP Notice:  Constant COOKIE_DOMAIN already defined in C:\xampp\htdocs\yii-wp\data\wordpress\wp-config.php on line 91
+[23-Aug-2018 04:41:10 UTC] PHP Notice:  Constant COOKIE_DOMAIN already defined in C:\xampp\htdocs\yii-wp\data\wordpress\wp-config.php on line 91

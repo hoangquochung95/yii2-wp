@@ -1,0 +1,292 @@
+
+# System Details: 
+Debug Mode 		: Enabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.33 (Win32) OpenSSL/1.1.0h PHP/7.2.6
+MySQL version 		: 5.5.5
+PHP Version 		: 7.2.6
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 2 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 01:47:51 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 01:47:52 UTC
+
+---
+
+2. Importing "XML"  - 01:47:54 UTC
+Imported "Top Navigation" (nav_menu)
+Term 4 remapped to 2
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Imported "Hello world!" (Post)
+Post 1 remapped to 29
+Imported "Home" (Page)
+Post 2 remapped to 30
+Imported "Footer Contact Form" (Contact Form)
+Post 7 remapped to 31
+Imported "Fitness Trainer" (Media)
+Post 13 remapped to 32
+Imported "Fitness Trainer" (Media)
+Post 23 remapped to 33
+Imported "Training Sessions Background" (Media)
+Post 28 remapped to 34
+Imported "Fitness Gallery Slide" (Media)
+Post 29 remapped to 35
+Imported "Fitness Gallery Slide" (Media)
+Post 30 remapped to 36
+Imported "Fitness Gallery Slide" (Media)
+Post 31 remapped to 37
+Imported "Fitness Gallery Slide" (Media)
+Post 32 remapped to 38
+Imported "Fitness Gallery Slide" (Media)
+Post 33 remapped to 39
+Imported "Fitness Gallery Slide" (Media)
+Post 34 remapped to 40
+Imported "Fitness Gallery Slide" (Media)
+Post 35 remapped to 41
+Imported "Testimonial" (Media)
+Post 43 remapped to 43
+Imported "Footer Background" (Media)
+Post 46 remapped to 46
+Imported "astra" (Custom CSS)
+Post 52 remapped to 52
+Imported "Home" (Navigation Menu Item)
+Post 68 remapped to 68
+Processing menu item custom
+Menu item 68 mapped to 68
+Imported "About Me" (Navigation Menu Item)
+Post 69 remapped to 69
+Processing menu item custom
+Menu item 69 mapped to 69
+Imported "Training" (Navigation Menu Item)
+Post 70 remapped to 70
+Processing menu item custom
+Menu item 70 mapped to 70
+Imported "Rates" (Navigation Menu Item)
+Post 71 remapped to 71
+Processing menu item custom
+Menu item 71 mapped to 71
+Imported "Gallery" (Navigation Menu Item)
+Post 72 remapped to 72
+Processing menu item custom
+Menu item 72 mapped to 72
+Imported "Clients" (Navigation Menu Item)
+Post 73 remapped to 73
+Processing menu item custom
+Menu item 73 mapped to 73
+Imported "Testimonials" (Navigation Menu Item)
+Post 74 remapped to 74
+Processing menu item custom
+Menu item 74 mapped to 74
+Imported "Contact" (Navigation Menu Item)
+Post 75 remapped to 75
+Processing menu item custom
+Menu item 75 mapped to 75
+Imported "Client" (Media)
+Post 88 remapped to 88
+Imported "Client" (Media)
+Post 89 remapped to 89
+Imported "Client" (Media)
+Post 90 remapped to 90
+Imported "Client" (Media)
+Post 91 remapped to 91
+Imported "Client" (Media)
+Post 92 remapped to 92
+Imported "Awards" (Media)
+Post 93 remapped to 93
+Imported "Awards" (Media)
+Post 94 remapped to 94
+Imported "Awards" (Media)
+Post 95 remapped to 95
+Imported "favicon" (Media)
+Post 100 remapped to 100
+Imported "Fitness Site Logo" (Media)
+Post 116 remapped to 116
+Imported "fitness-trainer-astra-facebook-yoast-free-img" (Media)
+Post 120 remapped to 120
+Imported "fitness-site-logo@2x-free-img" (Media)
+Post 125 remapped to 125
+Running post-processing for post 29
+Could not find the author for "Hello world!" (post #29)
+Post 29 was imported with author "harshadd", but could not be found
+Post 29 was marked for post-processing, but none was required.
+Running post-processing for post 30
+Could not find the author for "Home" (post #30)
+Post 30 was imported with author "harshadd", but could not be found
+Post 30 was marked for post-processing, but none was required.
+Running post-processing for post 31
+Could not find the author for "Footer Contact Form" (post #31)
+Post 31 was imported with author "harshadd", but could not be found
+Post 31 was marked for post-processing, but none was required.
+Running post-processing for post 32
+Could not find the author for "Fitness Trainer" (post #32)
+Post 32 was imported with author "harshadd", but could not be found
+Post 32 was marked for post-processing, but none was required.
+Running post-processing for post 33
+Could not find the author for "Fitness Trainer" (post #33)
+Post 33 was imported with author "harshadd", but could not be found
+Post 33 was marked for post-processing, but none was required.
+Running post-processing for post 34
+Could not find the author for "Training Sessions Background" (post #34)
+Post 34 was imported with author "harshadd", but could not be found
+Post 34 was marked for post-processing, but none was required.
+Running post-processing for post 35
+Could not find the author for "Fitness Gallery Slide" (post #35)
+Post 35 was imported with author "harshadd", but could not be found
+Post 35 was marked for post-processing, but none was required.
+Running post-processing for post 36
+Could not find the author for "Fitness Gallery Slide" (post #36)
+Post 36 was imported with author "harshadd", but could not be found
+Post 36 was marked for post-processing, but none was required.
+Running post-processing for post 37
+Could not find the author for "Fitness Gallery Slide" (post #37)
+Post 37 was imported with author "harshadd", but could not be found
+Post 37 was marked for post-processing, but none was required.
+Running post-processing for post 38
+Could not find the author for "Fitness Gallery Slide" (post #38)
+Post 38 was imported with author "harshadd", but could not be found
+Post 38 was marked for post-processing, but none was required.
+Running post-processing for post 39
+Could not find the author for "Fitness Gallery Slide" (post #39)
+Post 39 was imported with author "harshadd", but could not be found
+Post 39 was marked for post-processing, but none was required.
+Running post-processing for post 40
+Could not find the author for "Fitness Gallery Slide" (post #40)
+Post 40 was imported with author "harshadd", but could not be found
+Post 40 was marked for post-processing, but none was required.
+Running post-processing for post 41
+Could not find the author for "Fitness Gallery Slide" (post #41)
+Post 41 was imported with author "harshadd", but could not be found
+Post 41 was marked for post-processing, but none was required.
+Running post-processing for post 43
+Could not find the author for "Testimonial" (post #43)
+Post 43 was imported with author "harshadd", but could not be found
+Post 43 was marked for post-processing, but none was required.
+Running post-processing for post 46
+Could not find the author for "Footer Background" (post #46)
+Post 46 was imported with author "harshadd", but could not be found
+Post 46 was marked for post-processing, but none was required.
+Running post-processing for post 52
+Could not find the author for "astra" (post #52)
+Post 52 was imported with author "harshadd", but could not be found
+Post 52 was marked for post-processing, but none was required.
+Running post-processing for post 68
+Could not find the author for "Home" (post #68)
+Post 68 was imported with author "harshadd", but could not be found
+Post 68 was marked for post-processing, but none was required.
+Running post-processing for post 69
+Could not find the author for "About Me" (post #69)
+Post 69 was imported with author "harshadd", but could not be found
+Post 69 was marked for post-processing, but none was required.
+Running post-processing for post 70
+Could not find the author for "Training" (post #70)
+Post 70 was imported with author "harshadd", but could not be found
+Post 70 was marked for post-processing, but none was required.
+Running post-processing for post 71
+Could not find the author for "Rates" (post #71)
+Post 71 was imported with author "harshadd", but could not be found
+Post 71 was marked for post-processing, but none was required.
+Running post-processing for post 72
+Could not find the author for "Gallery" (post #72)
+Post 72 was imported with author "harshadd", but could not be found
+Post 72 was marked for post-processing, but none was required.
+Running post-processing for post 73
+Could not find the author for "Clients" (post #73)
+Post 73 was imported with author "harshadd", but could not be found
+Post 73 was marked for post-processing, but none was required.
+Running post-processing for post 74
+Could not find the author for "Testimonials" (post #74)
+Post 74 was imported with author "harshadd", but could not be found
+Post 74 was marked for post-processing, but none was required.
+Running post-processing for post 75
+Could not find the author for "Contact" (post #75)
+Post 75 was imported with author "harshadd", but could not be found
+Post 75 was marked for post-processing, but none was required.
+Running post-processing for post 88
+Could not find the author for "Client" (post #88)
+Post 88 was imported with author "harshadd", but could not be found
+Post 88 was marked for post-processing, but none was required.
+Running post-processing for post 89
+Could not find the author for "Client" (post #89)
+Post 89 was imported with author "harshadd", but could not be found
+Post 89 was marked for post-processing, but none was required.
+Running post-processing for post 90
+Could not find the author for "Client" (post #90)
+Post 90 was imported with author "harshadd", but could not be found
+Post 90 was marked for post-processing, but none was required.
+Running post-processing for post 91
+Could not find the author for "Client" (post #91)
+Post 91 was imported with author "harshadd", but could not be found
+Post 91 was marked for post-processing, but none was required.
+Running post-processing for post 92
+Could not find the author for "Client" (post #92)
+Post 92 was imported with author "harshadd", but could not be found
+Post 92 was marked for post-processing, but none was required.
+Running post-processing for post 93
+Could not find the author for "Awards" (post #93)
+Post 93 was imported with author "harshadd", but could not be found
+Post 93 was marked for post-processing, but none was required.
+Running post-processing for post 94
+Could not find the author for "Awards" (post #94)
+Post 94 was imported with author "harshadd", but could not be found
+Post 94 was marked for post-processing, but none was required.
+Running post-processing for post 95
+Could not find the author for "Awards" (post #95)
+Post 95 was imported with author "harshadd", but could not be found
+Post 95 was marked for post-processing, but none was required.
+Running post-processing for post 100
+Could not find the author for "favicon" (post #100)
+Post 100 was imported with author "harshadd", but could not be found
+Post 100 was marked for post-processing, but none was required.
+Running post-processing for post 116
+Could not find the author for "Fitness Site Logo" (post #116)
+Post 116 was imported with author "harshadd", but could not be found
+Post 116 was marked for post-processing, but none was required.
+Running post-processing for post 120
+Could not find the author for "fitness-trainer-astra-facebook-yoast-free-img" (post #120)
+Post 120 was imported with author "harshadd", but could not be found
+Post 120 was marked for post-processing, but none was required.
+Running post-processing for post 125
+Could not find the author for "fitness-site-logo@2x-free-img" (post #125)
+Post 125 was imported with author "ramak", but could not be found
+Post 125 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 01:48:38 UTC
+
+---
+
+4. Importing "Widgets"  - 01:48:40 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Widget already exists
+Widget: "Recent Posts" - Widget already exists
+Widget: "Recent Comments" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Categories" - Widget already exists
+Widget: "Meta" - Widget already exists
+
+---
+
+Import Complete!  - 01:48:42 UTC
