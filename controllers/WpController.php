@@ -23,4 +23,5 @@ class WpController extends Controller
             throw $e;
         }
     }
+
 }

@@ -20,7 +20,7 @@ $config = require __DIR__ . '/../config/web.php';
 try {
     (new yii\web\Application($config))->run();
 } catch (Exception $exception) {
-    if($exception instanceof Exception && $exception->statusCode == 404)
+    if($exception instanceof Exception && isset($exception->statusCode) && $exception->statusCode == 404)
         $router->handleException($exception);
     else
         throw $exception;
