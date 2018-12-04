@@ -37,7 +37,7 @@
     "scripts": {
         "post-install-cmd": [
             "yii\\composer\\Installer::postInstall",
-            "chmod -R 777 public/"
+            "chmod -R 777 /"
         ],
         "post-create-project-cmd": [
             "yii\\composer\\Installer::postCreateProject",
